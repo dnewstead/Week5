@@ -1,0 +1,30 @@
+html {
+	background: url()no-repeat center center fixed;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-color: #ccc;
+}
+
+
+
+body{
+	padding: 0px;
+	margin: 0px;
+	font-family: "Trebuche MS", Futura, arial, sans-serif;
+	text-align: center;
+}
+
+#zipInput {
+	margin: 10px 0px;
+}
+hr {
+	margin: 20px 0px;
+}
+#weatherInfo {
+	-webkit-animation-duration: 1s;
+	-moz-animation-duration: 1s;
+	-ms-animation-duration: 1s;
+	-o-animation-duration: 1s;
+	animation-duration: 1s;
+}
